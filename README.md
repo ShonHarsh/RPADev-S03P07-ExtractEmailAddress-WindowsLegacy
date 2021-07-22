@@ -20,7 +20,14 @@ After making a pull request or downloading the project, open the Main.xaml in Ui
 
 ### Sample Output
 
-//ToDo Complete program and record output
+```
+07/22/2021 18:38:41 => [Debug] Execution started for project: RPADev-S03P07-ExtractEmailAddress
+07/22/2021 18:38:42 => [Info] RPADev-S03P07-ExtractEmailAddress execution started
+07/22/2021 18:38:44 => [Debug] john.doe@localcompany.com
+07/22/2021 18:38:44 => [Info] RPADev-S03P07-ExtractEmailAddress execution ended in: 00:00:01
+```
+
+
 
 ### RPA Developer Foundation Sections
 
