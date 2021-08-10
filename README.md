@@ -27,8 +27,6 @@ After making a pull request or downloading the project, open the Main.xaml in Ui
 07/22/2021 18:38:44 => [Info] RPADev-S03P07-ExtractEmailAddress execution ended in: 00:00:01
 ```
 
-
-
 ### RPA Developer Foundation Sections
 
 1. Get Started With RPA Development
@@ -70,6 +68,12 @@ After making a pull request or downloading the project, open the Main.xaml in Ui
    P01 [RPADev-S05P01-PasswordGenerator](https://github.com/ShonHarsh/RPADev-S05P01-PasswordGenerator)
 
    P02 [RPADev-S05P02-TheRPAChallenge](https://github.com/ShonHarsh/RPADev-S05P02-TheRPAChallenge)
+
+   P03 [RPADev-S05P03-InputActions](https://github.com/ShonHarsh/RPADev-S05P03-InputActions)
+
+   P04 [RPADev-S05P04-OutputActions](https://github.com/ShonHarsh/RPADev-S05P04-OutputActions)
+
+   P05 [RPADev-S05P05-DataScraping](https://github.com/ShonHarsh/RPADev-S05P05-DataScraping)
 
 6. Selectors In Studio
 
