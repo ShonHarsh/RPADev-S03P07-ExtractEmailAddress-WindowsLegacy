@@ -1,5 +1,5 @@
 {
-  "name": "RPADev-S03P07-ExtractEmailAddress",
+  "name": "RPADev-S03P07-ExtractEmailAddress-WindowsLegacy",
   "projectId": "2cf32058-82e5-4ad3-b067-f0e7c41b9257",
   "description": "Extract the email address from a string (without using RegEx)\r\n\r\nGiven a string containing one email address, create a workflow to extract the email address without using regular expressions.\r\n\r\nNote: For input please use a String variable with the following value “Please use the following address to contact me john.doe@localcompany.com, it's the company email\"",
   "main": "Main.xaml",
